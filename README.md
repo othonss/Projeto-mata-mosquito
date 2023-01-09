@@ -31,7 +31,7 @@
 
 ## Como executar o projeto
 
-Instruções para executar o app
+Instruções para executar o app.
 
 ## Front-end
 Pré-requisitos: Navegador
@@ -41,9 +41,9 @@ Clonar repositório
 ```bash
   https://github.com/othonss/Projeto-mata-mosquito
 ```
-Editar com IDE ou Editor de preferência
+Editar com IDE ou Editor de preferência.
 
-Acessar utilizando navegador de preferência
+Acessar utilizando navegador de preferência.
 
 ## Autor 
 

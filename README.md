@@ -1,4 +1,13 @@
-# App Mata Mosquito
+# Mata Mosquito
+
+| :placard: Vitrine.Dev | Othon Santos da Silva |
+| -------------  | --- |
+| :sparkles: Name        | **Mata Mosquito**
+| :label: Technologies | HTML, CSS, JavaScript e Bootstrap
+| :bulb: Skills        | Componentes do Bootstrap e Manipulação do DOM com JavaScript
+| :rocket: URL         | https://othonss.github.io/Projeto-mata-mosquito/
+
+![](https://raw.githubusercontent.com/othonss/Projeto-mata-mosquito/main/layout/mata-mosquito-desk-1.png#vitrinedev)
 
 ## Sobre o Mata Mosquito
 <p>
@@ -15,19 +24,6 @@
 <img src="layout/mata-mosquito-desk-3.png" width="800"/>
 <img src="layout/mata-mosquito-desk-4.png" width="800"/>
 
-
-## Tecnologias utilizadas
-<p>Linguagens e padrões que foram utilizados para desenvolver o app</p>
-
-## Front-end
-- HTML
-- CSS
-- JavaScript
-- Bootstrap 
-
-### Competências  
-- Componentes do Bootstrap 
-- Manipulação do DOM Javascript
 
 ## Como executar o projeto
 
